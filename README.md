@@ -8,6 +8,9 @@ where x1 and x2 are the two variables.\
 -3<x1<3\
 -2<x2<2\
 
+Figure:\
+![img118](https://user-images.githubusercontent.com/15217992/32533812-8d64b8e8-c478-11e7-959e-8a8b5223ef4a.png)
+
 A 2D matrix of dimension 50x7 is taken. Each row corresponds to one swarm. Thus there are total 50 swarms. The first two columns gives the position of each swarm. The 3rd and 4th column gives the pbest. The 5th and 6th column gives the updated velocity components of the swarm along x1 and x2 axes. Finally the last cloumn gives the gbest value of the fitness function.\
 
 Snapshots provided below shows the swarm's tracking of the global minima. Here u=x1, v=x2
