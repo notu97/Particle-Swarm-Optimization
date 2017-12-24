@@ -20,3 +20,4 @@ Snapshots provided below shows the swarm's tracking of the global minima. Here u
 ![screenshot from 2017-10-24 21-09-15](https://user-images.githubusercontent.com/15217992/31983932-180707d2-b97d-11e7-9346-02a4ff2a776a.png)
 ![screenshot from 2017-10-24 21-09-40](https://user-images.githubusercontent.com/15217992/31983937-19615a9c-b97d-11e7-8bdf-7522317804dc.png)
 ![screenshot from 2017-10-24 20-31-43](https://user-images.githubusercontent.com/15217992/31983927-15c2ee32-b97d-11e7-9605-cd84fc5cc660.png)
+Video Link- https://www.youtube.com/watch?v=BW-dVYqlpk4&feature=youtu.be
